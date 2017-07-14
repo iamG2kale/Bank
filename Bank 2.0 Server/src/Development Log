@@ -1,0 +1,57 @@
+<Server>
+
+6/21/2014 {
+	-finished Gui portion of Server Side.
+}
+
+6/22/2014 {
+	-Implemented Client/Server interface into Server side program.
+		-Server Variables
+		-finished:  waitForConnection(); 
+					setUpStreams();
+					whileConnected();
+}
+
+6/29/2014 Sunday {
+	-Expanded whileConnected into 3 methods
+	-implemented instanceof
+	-Class serialzation
+}
+
+6/30/2014 {
+	-found bugs
+	-Set up test classes for Server/Client testing
+	-reimplemented recieving and input object handling
+	-reworked database, hashtable fully fuctional
+}
+
+7/2/2014 {
+	-Major success, Server handles input-Objects correctly
+	-Adjusted server and database to work
+	-Server correctly stores Persons and their info
+}
+
+7/4/2014 {
+	-reworked database fuctionality
+	-added refresh button to update data on tabs, not done
+}
+
+7/19/2014 {
+	-Main Server now listens to incoming connecitons
+	-Created ServerThreads, used for multithreading
+		-Setup streams and handles requests
+}
+
+7/20/2014 {
+	-Fixed refresh tab bug
+}
+
+11/22/2014 {
+	-Added input/output database saving between each session.
+	-Now "find" function shows password.
+}
+
+
+
+
+ 
