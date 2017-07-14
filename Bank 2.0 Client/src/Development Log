@@ -1,0 +1,17 @@
+<Client>
+
+6/24/2014 Tuesday {
+	-Register Screen components and gui finished, CLIENT/SERVER to be added
+	-50% of Login Screen finished
+}
+
+6/29/2014 Sunday {
+	-Finished Login Screen
+	-Fixing and testing connections, not done
+}
+
+7/2/2014 {
+	-Client can sign on into existing accounts
+	-Clients can deposit and withdraw money
+	-Clients can restart application and server still access server
+}
